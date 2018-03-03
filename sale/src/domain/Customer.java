@@ -12,5 +12,5 @@ package domain;
 public class Customer {
     private String name;
     private String address;
-    
+    private Integer id;
 }
