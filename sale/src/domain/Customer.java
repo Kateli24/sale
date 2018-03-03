@@ -14,4 +14,5 @@ public class Customer {
     private String address;
     private Integer id;
     private Integer age;
+    private Integer kids;
 }
