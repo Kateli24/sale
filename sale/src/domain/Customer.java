@@ -15,4 +15,5 @@ public class Customer {
     private Integer id;
     private Integer age;
     private Integer kids;
+    private Integer Life;
 }
